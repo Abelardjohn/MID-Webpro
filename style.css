@@ -1,0 +1,34 @@
+body {
+	background-color: whitesmoke;
+}
+
+.navbar{
+	background-color: #3D56B2 ;
+}
+.navbar-nav{
+	margin-left: auto;
+}
+
+
+.bg-primary {
+	background-color: #3D56B2;
+}
+
+
+.btn-primary {
+	background-color: #3D56B2;
+	border-color:  #3D56B2;
+	color: white;
+}
+
+.footer-index{
+	background-color:#3D56B2 ;
+}
+
+/* css about */
+
+.footer-about{
+	position: relative;
+	background-color: #3D56B2;
+
+}
